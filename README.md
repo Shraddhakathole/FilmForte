@@ -1,4 +1,4 @@
-
+FilmForte - Movie Collection Prediction Model
 
 "FilmForte's ML Model is a groundbreaking tool designed to forecast movie box office collections with unprecedented accuracy. By harnessing advanced machine learning algorithms, including regression analysis and regularisation techniques, this model evaluates key input features such as marketing expense, production cost, multiplex coverage, budget allocation, movie length, lead actors' and actresses' ratings, director and producer ratings, critic reviews, trailer views, 3D availability, time taken for production, Twitter hashtag trends, genre popularity, average age of actors, number of multiplexes screening the film, and recognition from prestigious awards like the Start Tech Oscars.
 
